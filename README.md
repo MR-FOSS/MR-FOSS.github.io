@@ -1,2 +1,3 @@
-# MR-FOSS.github.io
-MR FOSS Website
+Website design for FOSS
+
+[Click here to view the website](https://mr-foss.github.io)
